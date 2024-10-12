@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &782076147916789259
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3040800133705587569, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7114833541020551631, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+      propertyPath: m_Name
+      value: WindPlatform
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+--- !u!1 &7522851359942664132 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7114833541020551631, guid: 3f73b7a7a5e502e4b825d7589fb5bfcf, type: 3}
+  m_PrefabInstance: {fileID: 782076147916789259}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &315463431227599328
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7522851359942664132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b97a759bce2dec43b465c9ba0be1bdd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
